@@ -1,0 +1,1 @@
+{"num_conv_layers": 2, "conv_out_channels": 48, "num_fc_layers": 1, "hidden_size": 128, "learning_rate": 0.0007397851380541268, "batch_size": 64}
