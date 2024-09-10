@@ -5,7 +5,9 @@
 
 This repo contains a NN-based solution for LiDAR detection. The goal is to create a bounding box on humans detected.
 
+## Key words
 
+LiDAR, NN, CNN, DBSCAN, RANSAC
 
 
 
