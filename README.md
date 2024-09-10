@@ -54,3 +54,9 @@ Example of detecting human and creating bbox. Output of NN:
 
 
 ![Example Image](demo/humanDetectedBBox.png)
+
+## Known Issues - Future Work
+
+- reverse output of NN - Human detected , No Human detected
+- train and recreate the model with more 3d points, bigger and more robust datasets. Closer to real-world problem.
+- apply real time. Represent LiDAR points real time.
