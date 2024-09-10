@@ -57,6 +57,10 @@ Example of detecting human and creating bbox. Output of NN:
 
 ![Example Image](demo/humanDetectedBBox.png)
 
+![Example Image 2](demo/human2_detect_noise.png)
+
+![Floor Detection with threshold Image](demo/floorDetect.png)
+
 ## Known Issues - Future Work
 
 - reverse output of NN - Human detected , No Human detected
